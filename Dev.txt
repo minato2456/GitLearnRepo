@@ -1,1 +1,7 @@
 Hello there
+
+I am Writing again on this file
+
+I just removed it from the stagung area and updated it ,
+
+Using the command git rm --cached <file_name>
